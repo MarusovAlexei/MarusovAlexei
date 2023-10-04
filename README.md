@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="400"/>
+  <img src="https://tenor.com/ru/view/cat-coding-gif-22257939" width="400"/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
