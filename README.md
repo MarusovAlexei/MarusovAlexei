@@ -1,6 +1,6 @@
 <div id="header" align="center">
-<div class="tenor-gif-embed" data-postid="22257939" data-share-method="host" data-aspect-ratio="2.42424" data-width="100%"><a href="https://tenor.com/view/cat-coding-gif-22257939">Cat Coding GIF</a>from <a href="https://tenor.com/search/cat+coding-gifs">Cat Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+   <img src="https://tenor.com/search/cat+coding-gifs"/>
+
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="198"/>
