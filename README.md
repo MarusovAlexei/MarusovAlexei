@@ -1,11 +1,11 @@
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"  width="600"/>
+   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"  width="668"/>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="198"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="330"/>
   </a>
    <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" width="198"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" width="330"/>
   </a>
 </div>
 <h1 align="center">
