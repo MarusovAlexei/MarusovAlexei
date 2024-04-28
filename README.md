@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/alexei-marusov-9b9a59225">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="330"/>
   </a>
-   <a href="[your-twitter-URL](https://t.me/Alex_Marusov)">
+   <a href="https://t.me/Alex_Marusov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" width="330"/>
   </a>
 </div>
