@@ -1,7 +1,7 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"  width="668"/>
 <div id="badges" align="center">
-  <a href="linkedin.com/in/alexei-marusov-9b9a59225">
+  <a href="https://www.linkedin.com/in/alexei-marusov-9b9a59225">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="330"/>
   </a>
    <a href="[your-twitter-URL](https://t.me/Alex_Marusov)">
